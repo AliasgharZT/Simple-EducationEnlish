@@ -6,6 +6,7 @@ import webbrowser
 Builder.load_file('style.kv')
 
 class Style(MDAnchorLayout):
+    pass 
     web=webbrowser 
 
 class MainApp(MDApp):
